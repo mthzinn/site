@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.menu{
+   background-color: #E8DFDF;
+   align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI';
+    font-size: 1.3rem;
+}
+
+.menu img{
+    height: 60px;
+    width: 180px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 190px;
+    
+}
+
+.boneco img{
+
+    width: 30px;
+    height: 30px;
+    display: flex;
+
+}
+
+
+
